@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.0'
 # gem postgresql
 gem 'pg', '~> 0.18.4'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
